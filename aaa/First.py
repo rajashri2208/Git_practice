@@ -1,1 +1,1 @@
-Hello All changed
+print("Hello All")
